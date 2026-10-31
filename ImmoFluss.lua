@@ -158,3 +158,5 @@ function EndSession()
   netWorth = nil
   return nil
 end
+
+-- SIGNATURE: MCwCFGubF/JCYo2m5AOo8/6qW/JJ1ISNAhQz6Y/lAkARIyog6YaofaxNQP2Qqg==

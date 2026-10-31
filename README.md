@@ -16,7 +16,7 @@ So siehst du dein Netto-Vermögen inklusive Immobilien an einer Stelle. Die Zahl
 
 1. [`ImmoFluss.lua`](https://raw.githubusercontent.com/finnjung/moneymoney-immofluss/main/ImmoFluss.lua) herunterladen.
 2. In MoneyMoney **Hilfe → Datenbank im Finder zeigen** wählen und die Datei in den Ordner `Extensions` legen.
-3. Solange die Extension noch nicht von MoneyMoney signiert ist: **Einstellungen → Erweiterungen** öffnen und „Digitale Signatur von Extensions überprüfen“ ausschalten.
+3. Die Extension ist von MoneyMoney signiert (seit 29.10.2026). Die Signaturprüfung kann also eingeschaltet bleiben. Bis MoneyMoney sie in der eigenen Extension-Liste führt, holst du sie hier.
 4. **Konto → Konto hinzufügen → Andere** wählen und den Dienst **ImmoFluss** suchen.
 5. Als Benutzername deine E-Mail-Adresse eintragen (nur zur Anzeige), als Passwort den API-Key (`imf_sk_…`).
 
